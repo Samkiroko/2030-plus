@@ -1,7 +1,6 @@
 {
   "name": "2030-plus-web",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +10,21 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-node": "^4.0.0",
-    "eslint-config-prettier": "^6.9.0",
+    "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-prettier": "^3.1.2",
     "prettier": "^1.19.1"
   },
   "dependencies": {
     "format": "^0.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samkiroko/2030-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Samkiroko/2030-plus/issues"
+  },
+  "homepage": "https://github.com/Samkiroko/2030-plus#readme",
+  "description": ""
 }
